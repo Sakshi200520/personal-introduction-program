@@ -27,3 +27,7 @@ Personal-Introduction-Program
 2. Download or clone this repository
 3. Open terminal in project folder
 4. Run the program:
+
+## Screenshot
+
+![Program Screenshot](screenshot.png)
